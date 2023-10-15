@@ -1,0 +1,1 @@
+{"activation": "logistic", "solver": "adam", "alpha": 9.518704790649588e-06, "batch_size": 222, "learning_rate": "invscaling", "learning_rate_init": 0.07233844350349175, "power_t": 0.0013788608029936655, "max_iter": 77000, "n_iter_no_change": 970, "hidden_layer_sizes": 47}

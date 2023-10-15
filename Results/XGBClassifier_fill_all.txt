@@ -1,0 +1,60 @@
+Train report: 
+               precision    recall  f1-score   support
+
+           0       0.80      0.96      0.87       253
+           1       0.96      0.77      0.85       260
+
+    accuracy                           0.86       513
+   macro avg       0.88      0.86      0.86       513
+weighted avg       0.88      0.86      0.86       513
+
+[[244   9]
+ [ 61 199]] 
+ Test report: 
+               precision    recall  f1-score   support
+
+           0       0.58      0.74      0.65       113
+           1       0.62      0.44      0.51       108
+
+    accuracy                           0.59       221
+   macro avg       0.60      0.59      0.58       221
+weighted avg       0.60      0.59      0.58       221
+
+[[84 29]
+ [61 47]] 
+ Val dropped report: 
+               precision    recall  f1-score   support
+
+           0       0.63      0.74      0.68        50
+           1       0.55      0.42      0.48        38
+
+    accuracy                           0.60        88
+   macro avg       0.59      0.58      0.58        88
+weighted avg       0.59      0.60      0.59        88
+
+[[37 13]
+ [22 16]] 
+ Val filled report: 
+               precision    recall  f1-score   support
+
+           0       0.59      0.72      0.65       368
+           1       0.57      0.43      0.49       322
+
+    accuracy                           0.58       690
+   macro avg       0.58      0.57      0.57       690
+weighted avg       0.58      0.58      0.57       690
+
+[[264 104]
+ [184 138]] 
+ CGAN report: 
+               precision    recall  f1-score   support
+
+         0.0       0.52      0.62      0.56     28765
+         1.0       0.53      0.43      0.47     28765
+
+    accuracy                           0.52     57530
+   macro avg       0.52      0.52      0.52     57530
+weighted avg       0.52      0.52      0.52     57530
+
+[[17727 11038]
+ [16416 12349]]

@@ -1,0 +1,1 @@
+{"criterion": "gini", "splitter": "best", "max_depth": 4, "min_samples_split": 0.18817210972388132, "min_samples_leaf": 0.3268944242784164, "min_weight_fraction_leaf": 0.4195612802994863, "max_features": "log2", "max_leaf_nodes": 7, "min_impurity_decrease": 0.0008566827318876175}

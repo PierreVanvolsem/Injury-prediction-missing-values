@@ -1,0 +1,1 @@
+{"activation": "identity", "solver": "adam", "alpha": 1.8574415387189908e-05, "batch_size": 150, "learning_rate": "constant", "learning_rate_init": 0.0061168570682752985, "power_t": 0.08988472588546229, "max_iter": 89500, "n_iter_no_change": 30, "hidden_layer_sizes": 27}

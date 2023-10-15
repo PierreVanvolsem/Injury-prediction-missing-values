@@ -1,0 +1,1 @@
+{"criterion": "entropy", "splitter": "best", "max_depth": 4, "min_samples_split": 0.32650933769091134, "min_samples_leaf": 0.10589412212146669, "min_weight_fraction_leaf": 0.41093319884580193, "max_features": "auto", "max_leaf_nodes": 7, "min_impurity_decrease": 0.010181162775770953}

@@ -1,0 +1,1 @@
+{"activation": "logistic", "solver": "sgd", "alpha": 1.5339256451934613e-06, "batch_size": 244, "learning_rate": "constant", "learning_rate_init": 0.08443895840514538, "power_t": 0.03421447765875383, "max_iter": 59500, "n_iter_no_change": 50, "hidden_layer_sizes": [35, 24]}

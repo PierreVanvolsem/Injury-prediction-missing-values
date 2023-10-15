@@ -1,0 +1,1 @@
+{"activation": "identity", "solver": "sgd", "alpha": 1.2491748692457246e-05, "batch_size": 480, "learning_rate": "adaptive", "learning_rate_init": 0.011962746789374788, "power_t": 0.05443662655297276, "max_iter": 44000, "n_iter_no_change": 720, "hidden_layer_sizes": [30, 25]}

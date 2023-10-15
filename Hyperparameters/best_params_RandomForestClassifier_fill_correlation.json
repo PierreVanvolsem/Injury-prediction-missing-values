@@ -1,0 +1,1 @@
+{"n_estimators": 550, "criterion": "gini", "max_depth": 1, "min_samples_split": 0.5737434986398853, "min_samples_leaf": 0.21369217086904832, "min_weight_fraction_leaf": 0.2922974496379758, "max_features": "log2", "max_leaf_nodes": 6, "min_impurity_decrease": 0.031166622339145265}

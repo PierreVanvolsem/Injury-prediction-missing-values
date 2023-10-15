@@ -1,0 +1,1 @@
+{"booster": "gblinear", "lambda": 0.73581093887982, "alpha": 1.4039421461454123e-06, "subsample": 0.33823030965901957, "colsample_bytree": 0.9704231219795633, "n_estimators": 35}
